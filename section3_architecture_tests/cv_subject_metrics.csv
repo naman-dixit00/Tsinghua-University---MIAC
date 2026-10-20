@@ -1,0 +1,61 @@
+held_out_participant,model,n_test_transitions,mse
+sub-001,Zero-drift baseline,26,0.5153058171272278
+sub-001,Ridge AR(1),26,0.47221970558166504
+sub-001,Ridge + memory + time,26,0.4792187511920929
+sub-001,Neural drift + feedback + memory,26,0.5459473133087158
+sub-002,Zero-drift baseline,49,1.0364094972610474
+sub-002,Ridge AR(1),49,0.900451123714447
+sub-002,Ridge + memory + time,49,0.8309797048568726
+sub-002,Neural drift + feedback + memory,49,0.8790628910064697
+sub-003,Zero-drift baseline,96,0.7503980398178101
+sub-003,Ridge AR(1),96,0.8208703398704529
+sub-003,Ridge + memory + time,96,0.6669278144836426
+sub-003,Neural drift + feedback + memory,96,0.7132989168167114
+sub-004,Zero-drift baseline,101,0.7069979310035706
+sub-004,Ridge AR(1),101,0.5104044675827026
+sub-004,Ridge + memory + time,101,0.4615098237991333
+sub-004,Neural drift + feedback + memory,101,0.4752718508243561
+sub-005,Zero-drift baseline,92,1.7493574619293213
+sub-005,Ridge AR(1),92,1.1801824569702148
+sub-005,Ridge + memory + time,92,1.087938666343689
+sub-005,Neural drift + feedback + memory,92,1.1411057710647583
+sub-006,Zero-drift baseline,59,0.6073892116546631
+sub-006,Ridge AR(1),59,0.7997264862060547
+sub-006,Ridge + memory + time,59,0.6475263237953186
+sub-006,Neural drift + feedback + memory,59,0.6249834299087524
+sub-007,Zero-drift baseline,82,1.4260504245758057
+sub-007,Ridge AR(1),82,1.1011022329330444
+sub-007,Ridge + memory + time,82,1.0266574621200562
+sub-007,Neural drift + feedback + memory,82,0.9836406111717224
+sub-008,Zero-drift baseline,91,0.5684200525283813
+sub-008,Ridge AR(1),91,0.462900847196579
+sub-008,Ridge + memory + time,91,0.3961229622364044
+sub-008,Neural drift + feedback + memory,91,0.41244620084762573
+sub-009,Zero-drift baseline,43,1.0010747909545898
+sub-009,Ridge AR(1),43,0.6896361112594604
+sub-009,Ridge + memory + time,43,0.6941180229187012
+sub-009,Neural drift + feedback + memory,43,0.6852076649665833
+sub-010,Zero-drift baseline,115,0.878960907459259
+sub-010,Ridge AR(1),115,0.6884011030197144
+sub-010,Ridge + memory + time,115,0.6638774871826172
+sub-010,Neural drift + feedback + memory,115,0.6620415449142456
+sub-011,Zero-drift baseline,110,0.874898374080658
+sub-011,Ridge AR(1),110,0.619888961315155
+sub-011,Ridge + memory + time,110,0.5874686241149902
+sub-011,Neural drift + feedback + memory,110,0.5861148238182068
+sub-012,Zero-drift baseline,80,0.6026113033294678
+sub-012,Ridge AR(1),80,0.4683297574520111
+sub-012,Ridge + memory + time,80,0.4426890015602112
+sub-012,Neural drift + feedback + memory,80,0.4520568251609802
+sub-013,Zero-drift baseline,85,0.9308590292930603
+sub-013,Ridge AR(1),85,0.6611564755439758
+sub-013,Ridge + memory + time,85,0.6816578507423401
+sub-013,Neural drift + feedback + memory,85,0.669237494468689
+sub-014,Zero-drift baseline,103,0.597542405128479
+sub-014,Ridge AR(1),103,0.4053528308868408
+sub-014,Ridge + memory + time,103,0.369297057390213
+sub-014,Neural drift + feedback + memory,103,0.35957226157188416
+sub-015,Zero-drift baseline,115,1.2264492511749268
+sub-015,Ridge AR(1),115,0.9722334146499634
+sub-015,Ridge + memory + time,115,0.9927900433540344
+sub-015,Neural drift + feedback + memory,115,1.0087884664535522

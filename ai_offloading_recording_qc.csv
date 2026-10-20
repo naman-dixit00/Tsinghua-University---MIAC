@@ -1,0 +1,16 @@
+participant,task,electrodes_used,original_duration_min,seconds_analyzed,windows,windows_over_200uV_ptp
+sub-001,activeai,14,39.13,120,119,72
+sub-002,activeai,14,41.68,120,119,56
+sub-003,activeai,14,51.08,120,119,16
+sub-004,activeai,14,36.38,120,119,13
+sub-005,activeai,14,34.93,120,119,20
+sub-006,activeai,14,32.28,120,119,47
+sub-007,activeai,14,35.67,120,119,25
+sub-008,activeai,14,38.9,120,119,22
+sub-009,passiveai,14,2.95,120,119,61
+sub-010,passiveai,14,4.28,120,119,2
+sub-011,passiveai,14,2.5,120,119,6
+sub-012,passiveai,14,3.35,120,119,31
+sub-013,passiveai,14,2.82,120,119,23
+sub-014,passiveai,14,2.65,120,119,11
+sub-015,passiveai,14,2.72,120,119,2

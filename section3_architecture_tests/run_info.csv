@@ -1,0 +1,2 @@
+n_participants_after_filter,n_rows_after_filter,n_cv_participants_evaluated,n_cv_participants_skipped,n_replicates_per_scenario,sim_steps,memory_tau_seconds,exposure_memory_tau_seconds,exposure_period_steps,exposure_on_steps,feature_columns,pca_components,full_pca_variance_retained,reference_boundary_radius,device
+15,1378,15,0,20,120,10.0,20.0,20,10,"theta_relative, alpha_relative, beta_relative, gamma_low_relative",3,0.9163365037836995,3.3280153274536133,cpu
