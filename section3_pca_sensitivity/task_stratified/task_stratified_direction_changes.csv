@@ -1,0 +1,17 @@
+task,metric,projection,n_at_8,n_at_15,n_at_20,mean_slope_at_8,mean_slope_at_15,mean_slope_at_20,direction_at_8,direction_at_15,direction_at_20,direction_changes_8_to_15,direction_changes_15_to_20
+activeai,covariance_trace,PC3,7,5,3,-0.07749054520747736,-0.06572522560031646,0.003993982164955265,negative,negative,positive,False,True
+activeai,covariance_trace,RAW4D,7,5,3,-0.07179744273836818,-0.06327981444583068,0.003819047172249771,negative,negative,positive,False,True
+activeai,effective_rank,PC3,7,5,3,-0.01290023729977494,-0.00929530155129358,-0.004981328832183767,negative,negative,negative,False,False
+activeai,effective_rank,RAW4D,7,5,3,0.010544023206970999,0.01675756321328978,0.02142330737201417,positive,positive,positive,False,False
+activeai,rms_radius,PC3,7,5,3,-0.054018923148838036,-0.0654632012401178,-0.0368198742304274,negative,negative,negative,False,False
+activeai,rms_radius,RAW4D,7,5,3,-0.05015150032230571,-0.06148831296739652,-0.0320247879135786,negative,negative,negative,False,False
+activeai,step_distance,PC3,7,5,3,-0.06891746100880436,-0.05445644358984776,-0.03200662943198947,negative,negative,negative,False,False
+activeai,step_distance,RAW4D,7,5,3,-0.06272681447533696,-0.051955525539031176,-0.02676571091612177,negative,negative,negative,False,False
+passiveai,covariance_trace,PC3,6,6,4,0.023739242324676835,0.023739242324676835,0.0031409916957983036,positive,positive,positive,False,False
+passiveai,covariance_trace,RAW4D,6,6,4,0.016388512583700488,0.016388512583700488,0.0010405499875510427,positive,positive,positive,False,False
+passiveai,effective_rank,PC3,6,6,4,-0.08253940066717604,-0.08253940066717604,-0.10371064650012626,negative,negative,negative,False,False
+passiveai,effective_rank,RAW4D,6,6,4,-0.10167307056562068,-0.10167307056562068,-0.11253050533101513,negative,negative,negative,False,False
+passiveai,rms_radius,PC3,6,6,4,-0.004170753534238801,-0.004170753534238801,-0.0015431314195792252,negative,negative,negative,False,False
+passiveai,rms_radius,RAW4D,6,6,4,-0.0039038656266300507,-0.0039038656266300507,0.0009118685174298036,negative,negative,positive,False,True
+passiveai,step_distance,PC3,6,6,4,0.0326418187958282,0.0326418187958282,0.03387594058956142,positive,positive,positive,False,False
+passiveai,step_distance,RAW4D,6,6,4,0.03202336654589565,0.03202336654589565,0.03352716677122591,positive,positive,positive,False,False
