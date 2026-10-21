@@ -1,0 +1,9 @@
+feature_set,metric,n_participants,mean_slope_per_epoch,ci_low,ci_high,signflip_p,interpretation,approx_percent_change_per_30s,holm_adjusted_p
+exclude_gamma,effective_rank,15,-0.04025481472697467,-0.08639288332265736,0.005808083433561184,1.0,Absolute effective-rank change per epoch,,1.0
+exclude_gamma,log_covariance_trace,15,-0.0557344790676331,-0.13210917180541898,0.015169520507636433,1.0,Relative/log trend per 30-second epoch,-5.420977034280239,1.0
+exclude_gamma,log_rms_radius,15,-0.03017490244708686,-0.06331013747432102,0.0029440848543515214,1.0,Relative/log trend per 30-second epoch,-2.9724184907554685,1.0
+exclude_gamma,log_step_distance,15,-0.02459718710660704,-0.06149004894243901,0.010785452802723975,1.0,Relative/log trend per 30-second epoch,-2.4297141427394364,1.0
+four_band,effective_rank,15,-0.06086232093280798,-0.1175859125733653,-0.008669845427193417,1.0,Absolute effective-rank change per epoch,,1.0
+four_band,log_covariance_trace,15,-0.041453469121068114,-0.12553166971153298,0.03375889261877471,1.0,Relative/log trend per 30-second epoch,-4.060602425218097,1.0
+four_band,log_rms_radius,15,-0.03545804991113783,-0.07271883324611271,0.002178985429864702,1.0,Relative/log trend per 30-second epoch,-3.483677793630746,1.0
+four_band,log_step_distance,15,-0.02999347643666113,-0.07343394543655767,0.008843429295536522,1.0,Relative/log trend per 30-second epoch,-2.9548135667937236,1.0

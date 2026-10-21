@@ -1,0 +1,5 @@
+feature_set,participant,missing_epoch,missing_epoch_label
+exclude_gamma,sub-002,0,0-30 s
+exclude_gamma,sub-009,2,60-90 s
+four_band,sub-002,0,0-30 s
+four_band,sub-009,2,60-90 s
