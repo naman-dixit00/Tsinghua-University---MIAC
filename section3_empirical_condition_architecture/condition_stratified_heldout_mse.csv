@@ -1,0 +1,46 @@
+task,held_out_participant,model,n_train_transitions,n_test_transitions,mse
+activeai,sub-001,Ridge AR(1),570,26,0.4312557876110077
+activeai,sub-001,Ridge + memory + time,570,26,0.4420448839664459
+activeai,sub-001,Neural drift + feedback + memory,570,26,0.4742864966392517
+activeai,sub-002,Ridge AR(1),547,49,0.8679438233375549
+activeai,sub-002,Ridge + memory + time,547,49,0.7922312617301941
+activeai,sub-002,Neural drift + feedback + memory,547,49,0.7978827953338623
+activeai,sub-003,Ridge AR(1),500,96,0.8959545493125916
+activeai,sub-003,Ridge + memory + time,500,96,0.690859854221344
+activeai,sub-003,Neural drift + feedback + memory,500,96,0.7386034727096558
+activeai,sub-004,Ridge AR(1),495,101,0.5013737678527832
+activeai,sub-004,Ridge + memory + time,495,101,0.46804526448249817
+activeai,sub-004,Neural drift + feedback + memory,495,101,0.5039639472961426
+activeai,sub-005,Ridge AR(1),504,92,1.1760998964309692
+activeai,sub-005,Ridge + memory + time,504,92,1.0599385499954224
+activeai,sub-005,Neural drift + feedback + memory,504,92,1.0805658102035522
+activeai,sub-006,Ridge AR(1),537,59,0.906835675239563
+activeai,sub-006,Ridge + memory + time,537,59,0.7185093760490417
+activeai,sub-006,Neural drift + feedback + memory,537,59,0.6535676717758179
+activeai,sub-007,Ridge AR(1),514,82,1.0744812488555908
+activeai,sub-007,Ridge + memory + time,514,82,0.9666547179222107
+activeai,sub-007,Neural drift + feedback + memory,514,82,0.9699383974075317
+activeai,sub-008,Ridge AR(1),505,91,0.43272271752357483
+activeai,sub-008,Ridge + memory + time,505,91,0.36285316944122314
+activeai,sub-008,Neural drift + feedback + memory,505,91,0.37924373149871826
+passiveai,sub-009,Ridge AR(1),608,43,0.8244867324829102
+passiveai,sub-009,Ridge + memory + time,608,43,0.7978297472000122
+passiveai,sub-009,Neural drift + feedback + memory,608,43,0.7881559729576111
+passiveai,sub-010,Ridge AR(1),536,115,0.7360996007919312
+passiveai,sub-010,Ridge + memory + time,536,115,0.7275130748748779
+passiveai,sub-010,Neural drift + feedback + memory,536,115,0.7160907983779907
+passiveai,sub-011,Ridge AR(1),541,110,0.7033435702323914
+passiveai,sub-011,Ridge + memory + time,541,110,0.6649785041809082
+passiveai,sub-011,Neural drift + feedback + memory,541,110,0.7138614058494568
+passiveai,sub-012,Ridge AR(1),571,80,0.5150175094604492
+passiveai,sub-012,Ridge + memory + time,571,80,0.5390642881393433
+passiveai,sub-012,Neural drift + feedback + memory,571,80,0.5610880255699158
+passiveai,sub-013,Ridge AR(1),566,85,0.7641785144805908
+passiveai,sub-013,Ridge + memory + time,566,85,0.7514919638633728
+passiveai,sub-013,Neural drift + feedback + memory,566,85,0.7657564282417297
+passiveai,sub-014,Ridge AR(1),548,103,0.45843708515167236
+passiveai,sub-014,Ridge + memory + time,548,103,0.4589357376098633
+passiveai,sub-014,Neural drift + feedback + memory,548,103,0.4499305784702301
+passiveai,sub-015,Ridge AR(1),536,115,1.1981201171875
+passiveai,sub-015,Ridge + memory + time,536,115,1.1729103326797485
+passiveai,sub-015,Neural drift + feedback + memory,536,115,1.2008951902389526

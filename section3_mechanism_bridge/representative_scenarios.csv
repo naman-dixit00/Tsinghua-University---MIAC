@@ -1,0 +1,3 @@
+scenario,reversal_to_reliance_rate,memory_persistence,mean_reliance_final10,mean_offloading_final10,mean_performance_cost_final10,fraction_offloading_high,fraction_offloading_and_cost
+No reversal-to-reliance learning,0.0,0.9,0.0,0.0,0.0,0.0,0.0
+Positive learning + persistent memory,0.04,0.9,0.5674070237560815,0.5028340373865822,0.2739811402296947,0.5665,0.5665
